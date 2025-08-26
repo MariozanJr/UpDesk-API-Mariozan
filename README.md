@@ -1,34 +1,27 @@
 # 🖥️ UpDesk-API-Mariozan
-Projeto UpDesk – versão individual aplicada no PIM/API  
-Disciplina: Projeto de Sistemas Orientado a Objetos
+<p align="center">
+  | <a href="#sobre-o-projeto">Sobre o Projeto</a> |
+  <a href="#backlog-do-produto">Backlog do Produto</a> |
+  <a href="#cronograma-de-evolucao">Cronograma de Evolução</a> |
+  <a href="#sprints">Sprints</a> |
+  <a href="#tecnologias-utilizadas">Tecnologias</a> |
+  <a href="#estrutura-de-pastas">Estrutura de Pastas</a> |  
+  <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
+   <br> | <a href="#documentacao">Documentação</a> |  
+  <a href="#equipe">Equipe</a> |
+</p>
+
 
 # 📖 Sobre o Projeto
-
+Projeto UpDesk – versão individual aplicada no PIM/API  
+Disciplina: Projeto de Sistemas Orientado a Objetos  
+<br>
 O UpDesk é um projeto acadêmico focado no desenvolvimento de um sistema de abertura de chamados com suporte de inteligência artificial.
 O sistema oferece:  
 ✔ Interface web responsiva  
 ✔ Gerenciamento de chamados  
 ✔ Chat com IA para triagem  
 ✔ Direcionamento automatizado de solicitações   
-
-# ✅ Requisitos Funcionais
-- Protótipo de interface WEB responsiva  
-- Interface de gerenciamento de chamados  
-- Suporte com chat   
-- IA para triagem e direcionamento de chamados  
-
-# 🛠 Requisitos Não Funcionais
-- Estrutura de banco de dados com SQL  
-- Projeto desenvolvido com Python e Flask  
-- Arquivos front-end em HTML, CSS e JavaScript  
-- Arquitetura baseada em Projeto Orientado a Objetos  
- 
-# 💡 Solução Proposta  
-- Chat com IA integrada
-- Sistema de triagem para monitoramento das ações da IA
-- Sistema de abertura e acompanhamento de chamados
-- Priorização de chamados
-- Usuários com diferentes permissões
 
 # 📋 Backlog do Produto
 - [ ] Cadastro e login de usuários  
