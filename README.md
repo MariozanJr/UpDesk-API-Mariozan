@@ -9,7 +9,6 @@
   <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
    <br> | <a href="#documentacao">Documentação</a> |  
   <a href="#equipe">Equipe</a> |
-  | <a href ="#desafio"> Desafio</a>  |
 </p>
 
 
@@ -81,8 +80,7 @@ Os protótipos do UpDesk foram desenvolvidos no Figma, contendo todas as telas d
 
 
 
-## 🧑‍💻 Como Rodar o Projeto <a id="como-rodar-o-projeto"></a>
-## 🏅 Desafio <a id="desafio"></a>
+# 🧑‍💻 Como Rodar o Projeto <a id="como-rodar-o-projeto"></a>
 Pré-requisitos:
 - Python 3.x  
 - Pip
