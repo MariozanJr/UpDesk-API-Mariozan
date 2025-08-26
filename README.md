@@ -80,7 +80,7 @@ Os protótipos do UpDesk foram desenvolvidos no Figma, contendo todas as telas d
 
 
 
-# 🧑‍💻 <a href="#-sobre-o-projeto">Como Rodar o Projeto</a>
+# 🧑‍💻 <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a>
 Pré-requisitos:
 - Python 3.x  
 - Pip
