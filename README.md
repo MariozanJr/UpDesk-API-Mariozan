@@ -41,17 +41,19 @@ O sistema oferece:
 # 📅 Cronograma de Evolução
 | Fase / Sprint | Período       | Atividades Principais                                                                     |
 | ------------- | ------------- | ----------------------------------------------------------------------------------------- |
-| Planejamento  | 01/03 – 07/03 | Definição do backlog, levantamento de requisitos, configuração inicial do repositório     |
-| Sprint 1      | 08/03 – 22/03 | Estrutura inicial do projeto, configuração do banco de dados, criação das primeiras telas |
-| Sprint 2      | 23/03 – 06/04 | Implementação da abertura de chamados e integração com banco                              |
-| Sprint 3      | 07/04 – 21/04 | Integração do chat com IA, testes de triagem automática                                   |
-| Sprint 4      | 22/04 – 05/05 | Painel administrativo, relatórios, ajustes finais e entrega do incremento                 |
+| Planejamento  | 26/08 – 02/09 | Definição do backlog, levantamento de requisitos, configuração inicial do repositório     |
+| Sprint 1      | 03/09 – 09/09 | Estrutura inicial do projeto, configuração do banco de dados, criação das primeiras telas |
+| Sprint 2      | 10/09 – 16/09 | Implementação da abertura de chamados e integração com banco                              |
+| Sprint 3      | 17/09 – 23/09 | Integração do chat com IA, testes de triagem automática                                   |
+| Sprint 4      | 24/09 – 30/09 | Painel administrativo, relatórios, ajustes finais e entrega do incremento                 |
 
 # 🚀 Sprints
 | Sprint   | Período       | Documentação         | Vídeo no YouTube |
 | -------- | ------------- | -------------------- | ---------------- |
-| Sprint 1 | 01/03 – 15/03 | [Doc Sprint 1](link) | [Vídeo](link)    |
-| Sprint 2 | 16/03 – 30/03 | [Doc Sprint 2](link) | [Vídeo](link)    |
+| Sprint 1 | 03/09 – 09/09 | [Doc Sprint 1](link) | [Vídeo](link)    |
+| Sprint 2 | 10/09 – 16/09 | [Doc Sprint 2](link) | [Vídeo](link)    |
+| Sprint 3 | 17/09 – 23/09 | [Doc Sprint 1](link) | [Vídeo](link)    |
+| Sprint 4 | 24/09 – 30/09 | [Doc Sprint 2](link) | [Vídeo](link)    |
 
 
 
