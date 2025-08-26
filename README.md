@@ -39,13 +39,15 @@ O sistema oferece:
 - [ ] Relatórios de chamados
 
 # 📅 Cronograma de Evolução
-| Fase / Sprint | Período       | Atividades Principais                                                                     |
-| ------------- | ------------- | ----------------------------------------------------------------------------------------- |
-| Planejamento  | 26/08 – 02/09 | Definição do backlog, levantamento de requisitos, configuração inicial do repositório     |
-| Sprint 1      | 03/09 – 09/09 | Estrutura inicial do projeto, configuração do banco de dados, criação das primeiras telas |
-| Sprint 2      | 10/09 – 16/09 | Implementação da abertura de chamados e integração com banco                              |
-| Sprint 3      | 17/09 – 23/09 | Integração do chat com IA, testes de triagem automática                                   |
-| Sprint 4      | 24/09 – 30/09 | Painel administrativo, relatórios, ajustes finais e entrega do incremento                 |
+
+| Fase / Sprint | Período        | Atividades Principais                                                                    |
+| ------------- | -------------- | ---------------------------------------------------------------------------------------- |
+| Planejamento  | 26/08 – 02/09  | Definição do backlog, levantamento de requisitos, configuração inicial do repositório   |
+| Sprint 1      | 03/09 – 09/09  | Estrutura inicial do projeto, configuração do banco de dados, criação das primeiras telas|
+| Sprint 2      | 10/09 – 16/09  | Implementação da abertura de chamados e integração com banco                             |
+| Sprint 3      | 17/09 – 23/09  | Integração do chat com IA, testes de triagem automática                                  |
+| Sprint 4      | 24/09 – 30/09  | Painel administrativo, relatórios, ajustes finais e entrega do incremento               |
+
 
 # 🚀 Sprints
 | Sprint   | Período       | Documentação         | Vídeo no YouTube |
