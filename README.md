@@ -64,7 +64,7 @@ Os protótipos do UpDesk foram desenvolvidos no Figma, contendo todas as telas d
 - **Prototipagem**: Figma  
 - **Controle de Versão**: Git / GitHub 
 
-# 🗂 Estrutura de Pastas    
+# 🗂 Estrutura de Pastas   <a id="estrutura-de-pastas"></a>
 📁 app/                   # Pasta principal da aplicação  
  ┣ 📁 templates/          # Arquivos HTML (renderizados pelo Flask)  
  ┣ 📁 static/             # Arquivos estáticos (CSS, JS, imagens)  
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 ### Executar a aplicação  
 python app.py  
 
-# 📚 Documentação
+# 📚 Documentação <a id="Documentação"></a>
 ### 📂 Acesse a pasta de Documentação
 
 Inclui:
@@ -108,7 +108,7 @@ Inclui:
 - Documentos de cada Sprint
  
 
-# 🧑‍💻 Equipe 
+# 🧑‍💻 Equipe <a id="Equipe"></a>
 | Nome                              | Papel         | GitHub                                  | LinkedIn                                               |
 | --------------------------------- | ------------- | --------------------------------------- | ------------------------------------------------------ |
 | Mariozan Damasceno Lacerda Júnior | Desenvolvedor | [GitHub](https://github.com/MariozanJr) | [LinkedIn](https://www.linkedin.com/in/mariozanjunior) |
