@@ -64,7 +64,7 @@ Os protótipos do UpDesk foram desenvolvidos no Figma, contendo todas as telas d
 - **Prototipagem**: Figma  
 - **Controle de Versão**: Git / GitHub 
 
-# 🗂 Estrutura de Pastas   <a id="estrutura-de-pastas"></a>
+# 🗂 Estrutura de Pastas <a id="estrutura-de-pastas"></a>
 📁 app/                   # Pasta principal da aplicação  
  ┣ 📁 templates/          # Arquivos HTML (renderizados pelo Flask)  
  ┣ 📁 static/             # Arquivos estáticos (CSS, JS, imagens)  
