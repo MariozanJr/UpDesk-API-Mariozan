@@ -102,7 +102,7 @@ Inclui:
 - Documentos de cada Sprint
  
 
-# 🧑‍💻 Equipe <a id="Equipe"></a>
+# 🧑‍💻 Equipe <a id="equipe"></a>
 | Nome                              | Papel         | GitHub                                  | LinkedIn                                               |
 | --------------------------------- | ------------- | --------------------------------------- | ------------------------------------------------------ |
 | Mariozan Damasceno Lacerda Júnior | Desenvolvedor | [GitHub](https://github.com/MariozanJr) | [LinkedIn](https://www.linkedin.com/in/mariozanjunior) |
