@@ -12,7 +12,7 @@
 </p>
 
 
-# 📖 <a href="#-sobre-o-projeto">Sobre o Projeto</a>
+# 📖 Sobre o Projeto <a id="sobre-o-projeto"></a>
 Projeto UpDesk – versão individual aplicada no PIM/API  
 Disciplina: Projeto de Sistemas Orientado a Objetos  
 <br>
@@ -50,12 +50,6 @@ O sistema oferece:
 | Sprint 3 | 17/09 – 23/09 | [Doc Sprint 1](link) | [Vídeo](link)    |
 | Sprint 4 | 24/09 – 30/09 | [Doc Sprint 2](link) | [Vídeo](link)    |
 
-
-
-
-# 🎨 Prototipagem 
-Os protótipos do UpDesk foram desenvolvidos no Figma, contendo todas as telas do sistema e representando o fluxo de navegação e interface visual. 
-🔗 [(Veja o Projeto no Figma)](https://www.figma.com/design/E1MoJEdet6K1CZIIEW0vfm/UpDesk?node-id=294-3&t=YVfI6JaDnaV6bH2t-0)
 
 ## 🚀 Tecnologias Utilizadas  
 - **Backend**: Python + Flask  
@@ -99,7 +93,7 @@ pip install -r requirements.txt
 ### Executar a aplicação  
 python app.py  
 
-# 📚 Documentação <a id="Documentação"></a>
+# 📚 Documentação <a id="documentacao"></a>
 ### 📂 Acesse a pasta de Documentação
 
 Inclui:
