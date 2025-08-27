@@ -6,8 +6,8 @@
   <a href="#sprints">Sprints</a> |
   <a href="#tecnologias-utilizadas">Tecnologias</a> |
   <a href="#estrutura-de-pastas">Estrutura de Pastas</a> |  
-  <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
-   <br> | <a href="#documentacao">Documentação</a> |  
+  <br>  | <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
+ <a href="#documentacao">Documentação</a> |  
   <a href="#equipe">Equipe</a> |
 </p>
 
