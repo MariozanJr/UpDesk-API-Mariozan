@@ -31,7 +31,7 @@ O sistema oferece:
 - [ ] Painel administrativo  
 - [ ] Relatórios de chamados
 
-# 📅 Cronograma de Evolução
+# 📅 Cronograma de Evolução <a id="cronograma-de-evolucao"></a>
 
 | Fase / Sprint | Período        | Atividades Principais                                                                    |
 | ------------- | -------------- | ---------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ O sistema oferece:
 | Sprint 4      | 24/09 – 30/09  | Painel administrativo, relatórios, ajustes finais e entrega do incremento               |
 
 
-# 🚀 Sprints
+# 🚀 Sprints <a id="sprints"></a>
 | Sprint   | Período       | Documentação         | Vídeo no YouTube |
 | -------- | ------------- | -------------------- | ---------------- |
 | Sprint 1 | 03/09 – 09/09 | [Doc Sprint 1](link) | [Vídeo](link)    |
@@ -51,7 +51,7 @@ O sistema oferece:
 | Sprint 4 | 24/09 – 30/09 | [Doc Sprint 2](link) | [Vídeo](link)    |
 
 
-## 🚀 Tecnologias Utilizadas  
+## 🚀 Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a>  
 - **Backend**: Python + Flask  
 - **Frontend**: HTML, CSS, JavaScript  
 - **Banco de Dados**: SQL (MySQL ou MS SQL Server)  
