@@ -41,16 +41,6 @@ O sistema oferece:
 | Sprint 3      | 17/09 – 23/09  | Integração do chat com IA, testes de triagem automática                                  |
 | Sprint 4      | 24/09 – 30/09  | Painel administrativo, relatórios, ajustes finais e entrega do incremento               |
 
-
-# 🚀 Sprints <a id="sprints"></a>
-| Sprint   | Período       | Documentação         | Vídeo no YouTube |
-| -------- | ------------- | -------------------- | ---------------- |
-| Sprint 1 | 03/09 – 09/09 | [Doc Sprint 1](link) | [Vídeo](link)    |
-| Sprint 2 | 10/09 – 16/09 | [Doc Sprint 2](link) | [Vídeo](link)    |
-| Sprint 3 | 17/09 – 23/09 | [Doc Sprint 1](link) | [Vídeo](link)    |
-| Sprint 4 | 24/09 – 30/09 | [Doc Sprint 2](link) | [Vídeo](link)    |
-
-
 ## 🚀 Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a>  
 - **Backend**: Python + Flask  
 - **Frontend**: HTML, CSS, JavaScript  
