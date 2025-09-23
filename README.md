@@ -2,6 +2,7 @@
 <p align="center">
   | <a href="#sobre-o-projeto">Sobre o Projeto</a> |
   <a href="#backlog-do-produto">Backlog do Produto</a> |
+  <a href="#dordod">dordod</a> |
   <a href="#cronograma-de-evolucao">Cronograma de Evolução</a> |
   <a href="#sprints">Sprints</a> |
   <a href="#tecnologias-utilizadas">Tecnologias</a> |
@@ -31,7 +32,7 @@ O sistema oferece:
 - [ ] Painel administrativo  
 - [ ] Relatórios de chamados
 
-## 🎯 (DoR / DoD)
+## 🎯 (DoR / DoD) <a id="dordod"></a>
 
 Para garantir a qualidade e a consistência do desenvolvimento, nosso projeto segue uma **Definição de Ready (DoR)**, que é o checklist de critérios para uma tarefa poder ser iniciada, e uma **Definição de Done (DoD)**, que são os critérios para que uma tarefa seja considerada 100% concluída.  
 Para ver a lista detalhada de critérios, acesse o documento completo:
