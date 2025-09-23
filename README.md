@@ -23,7 +23,7 @@ O sistema oferece:
 ✔ Chat com IA para triagem  
 ✔ Direcionamento automatizado de solicitações   
 
-# 📋 Backlog do Produto <a id="backlog-do-produto"></a>
+# [📋 Backlog do Produto](./BACKLOG.md) <a id="backlog-do-produto"></a>
 - [ ] Cadastro e login de usuários  
 - [ ] Abertura de chamados  
 - [ ] Chat com IA  
