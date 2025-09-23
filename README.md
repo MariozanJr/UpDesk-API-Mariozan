@@ -31,6 +31,11 @@ O sistema oferece:
 - [ ] Painel administrativo  
 - [ ] Relatórios de chamados
 
+## 🎯 (DoR / DoD)
+
+Para garantir a qualidade e a consistência do desenvolvimento, nosso projeto segue uma **Definição de Ready (DoR)**, que é o checklist de critérios para uma tarefa poder ser iniciada, e uma **Definição de Done (DoD)**, que são os critérios para que uma tarefa seja considerada 100% concluída.  
+Para ver a lista detalhada de critérios, acesse o documento completo:
+**[📄 Acessar Definição de Pronto (DoR / DoD)](./docs/DoR_DoD.md)**
 # 📅 Cronograma de Evolução <a id="cronograma-de-evolucao"></a>
 
 | Fase / Sprint | Período        | Atividades Principais                                                                    |
