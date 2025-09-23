@@ -7,7 +7,6 @@
   <a href="#tecnologias-utilizadas">Tecnologias</a> |
   <a href="#estrutura-de-pastas">Estrutura de Pastas</a> |  
   <br>  | <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
- <a href="#documentacao">Documentação</a> |  
   <a href="#equipe">Equipe</a> |
 </p>
 
@@ -88,13 +87,6 @@ pip install -r requirements.txt
 ### Executar a aplicação  
 python app.py  
 
-# 📚 Documentação <a id="documentacao"></a>
-### 📂 Acesse a pasta de Documentação
-
-Inclui:
-- Manual do Usuário
-- Checklist de DoR (Definition of Ready) e DoD (Definition of Done)
-- Documentos de cada Sprint
  
 
 # 🧑‍💻 Equipe <a id="equipe"></a>
