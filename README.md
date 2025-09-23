@@ -4,7 +4,6 @@
   <a href="#backlog-do-produto">Backlog do Produto</a> |
   <a href="#dordod">(DoR / DoD)</a> |
   <a href="#cronograma-de-evolucao">Cronograma de Evolução</a> |
-  <a href="#sprints">Sprints</a> |
   <a href="#tecnologias-utilizadas">Tecnologias</a> |
   <a href="#estrutura-de-pastas">Estrutura de Pastas</a> |  
   <br>  | <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
