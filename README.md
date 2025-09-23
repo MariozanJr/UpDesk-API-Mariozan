@@ -36,15 +36,15 @@ O sistema oferece:
 Para garantir a qualidade e a consistência do desenvolvimento, nosso projeto segue uma **Definição de Ready (DoR)**, que é o checklist de critérios para uma tarefa poder ser iniciada, e uma **Definição de Done (DoD)**, que são os critérios para que uma tarefa seja considerada 100% concluída.  
 Para ver a lista detalhada de critérios, acesse o documento completo:
 **[📄 Acessar Definição de Pronto (DoR / DoD)](./DoR_DoD.md)**
+
 # 📅 Cronograma de Evolução <a id="cronograma-de-evolucao"></a>
 
-| Fase / Sprint | Período        | Atividades Principais                                                                    |
-| ------------- | -------------- | ---------------------------------------------------------------------------------------- |
-| Planejamento  | 26/08 – 02/09  | Definição do backlog, levantamento de requisitos, configuração inicial do repositório   |
-| Sprint 1      | 03/09 – 09/09  | Estrutura inicial do projeto, configuração do banco de dados, criação das primeiras telas|
-| Sprint 2      | 10/09 – 16/09  | Implementação da abertura de chamados e integração com banco                             |
-| Sprint 3      | 17/09 – 23/09  | Integração do chat com IA, testes de triagem automática                                  |
-| Sprint 4      | 24/09 – 30/09  | Painel administrativo, relatórios, ajustes finais e entrega do incremento               |
+| Sprint          |    Período    | Documentação                                     |
+| --------------- | :-----------: | ------------------------------------------------ |
+| 🔖 **SPRINT 1** | 03/09 – 09/09| [Sprint 1 Docs](./sprint-1/README.md) |
+| 🔖 **SPRINT 2** | 10/09 – 16/09 | [Sprint 2 Docs](./sprints/sprint-2/README.md) |
+| 🔖 **SPRINT 3** | 17/09 – 23/09 | [Sprint 3 Docs](./sprints/sprint-3/README.md) |
+
 
 ## 🚀 Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a>  
 - **Backend**: Python + Flask  
