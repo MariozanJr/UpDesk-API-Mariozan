@@ -29,13 +29,11 @@ O sistema oferece:
 ## 🎯 (DoR / DoD) <a id="dordod"></a>
 **[Acessar Definição de Pronto (DoR / DoD)](./DoR_DoD.md)**
 
-# 📅 Cronograma de Evolução <a id="cronograma-de-evolucao"></a>
+## 📅 Cronograma de Evolução <a id="cronograma-de-evolucao"></a>
+**[Acessar Cronograma de Evolução](./cronograma.md)**
 
-| Sprint          |    Período    | Documentação                                     |
-| --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 03/09 – 09/09| [Sprint 1 Docs](./sprint1.md) |
-| 🔖 **SPRINT 2** | 10/09 – 16/09 | [Sprint 2 Docs](./sprint2.md) |
-| 🔖 **SPRINT 3** | 17/09 – 23/09 | [Sprint 3 Docs](./sprint3.md) |
+
+
 
 
 ## 🚀 Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a>  
