@@ -36,12 +36,6 @@ O sistema oferece:
 ## 🚀 Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a> 
 **[Acessar as tecnologias utilizadas](./tecnologias.md)**
 
-- **Backend**: Python + Flask  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Banco de Dados**: SQL (MySQL ou MS SQL Server)  
-- **Prototipagem**: Figma  
-- **Controle de Versão**: Git / GitHub 
-
 # 🗂 Estrutura de Pastas <a id="estrutura-de-pastas"></a>
 📁 app/                   # Pasta principal da aplicação  
  ┣ 📁 templates/          # Arquivos HTML (renderizados pelo Flask)  
