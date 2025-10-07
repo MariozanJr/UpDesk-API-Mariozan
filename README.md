@@ -33,10 +33,9 @@ O sistema oferece:
 **[Acessar Cronograma de Evolução](./cronograma.md)**
 
 
+## 🚀 Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a> 
+**[Acessar as tecnologias utilizadas](./tecnologias.md)**
 
-
-
-## 🚀 Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a>  
 - **Backend**: Python + Flask  
 - **Frontend**: HTML, CSS, JavaScript  
 - **Banco de Dados**: SQL (MySQL ou MS SQL Server)  
