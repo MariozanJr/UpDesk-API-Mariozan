@@ -45,19 +45,6 @@ O sistema oferece:
 # 🧑‍💻 Como Rodar o Projeto <a id="como-rodar-o-projeto"></a>
 **[Acessar como rodar o projeto](./rodarprojeto.md)**
 
-
-## Clonar o repositório  
-git clone https://github.com/MariozanJr/UpDesk-API-Mariozan.git   
-cd UpDesk-API-Mariozan   
-
-### Instalar dependências  
-pip install -r requirements.txt  
-
-### Configurar banco de dados e criar tabelas necessárias  
-
-### Executar a aplicação  
-python app.py  
-
  
 
 # 🧑‍💻 Equipe <a id="equipe"></a>
