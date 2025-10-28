@@ -37,17 +37,14 @@ O sistema oferece:
 **[Acessar as tecnologias utilizadas](./tecnologias.md)**
 
 # 🗂 Estrutura de Pastas <a id="estrutura-de-pastas"></a>
-**[Acessar as tecnologias utilizadas](./pastas.md)**
+**[Acessar a Estrutura de Pastas](./pastas.md)**
 
 
 
 
 # 🧑‍💻 Como Rodar o Projeto <a id="como-rodar-o-projeto"></a>
-Pré-requisitos:
-- Python 3.x  
-- Pip
-- SQL Server ou MySQL
-- IDE ou editor (VS Code, PyCharm, etc.)  
+**[Acessar como rodar o projeto](./rodarprojeto.md)**
+
 
 ## Clonar o repositório  
 git clone https://github.com/MariozanJr/UpDesk-API-Mariozan.git   
