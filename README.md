@@ -37,7 +37,7 @@ O sistema oferece:
 **[Acessar as tecnologias utilizadas](./tecnologias.md)**
 
 # 🗂 Estrutura de Pastas <a id="estrutura-de-pastas"></a>
-**[Acessar as tecnologias utilizadas](./Pastas.md)**
+**[Acessar as tecnologias utilizadas](./pastas.md)**
 
 
 
