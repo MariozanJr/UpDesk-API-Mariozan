@@ -26,9 +26,6 @@ O sistema oferece:
  [Acessar o backlog do produto](./BACKLOG.md) <a id="backlog-do-produto"></a>
 
 
-## 🎯 (DoR / DoD) <a id="dordod"></a>
-**[Acessar Definição de Pronto (DoR / DoD)](./DoR_DoD.md)**
-
 ## 📅 Cronograma de Evolução <a id="cronograma-de-evolucao"></a>
 **[Acessar Cronograma de Evolução](./cronograma.md)**
 
@@ -39,11 +36,17 @@ O sistema oferece:
 # 🗂 Estrutura de Pastas <a id="estrutura-de-pastas"></a>
 **[Acessar a Estrutura de Pastas](./pastas.md)**
 
-
-
+## 🎯 (DoR / DoD) <a id="dordod"></a>
+**[Acessar Definição de Pronto (DoR / DoD)](./DoR_DoD.md)**
 
 # 🧑‍💻 Como Rodar o Projeto <a id="como-rodar-o-projeto"></a>
 **[Acessar como rodar o projeto](./rodarprojeto.md)**
+
+
+
+
+
+
 
  
 
