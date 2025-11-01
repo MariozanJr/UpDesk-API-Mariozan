@@ -39,14 +39,16 @@ O sistema oferece:
 # 🧑‍💻 Como Rodar o Projeto <a id="como-rodar-o-projeto"></a>
 **[Acessar como rodar o projeto](./rodarprojeto.md)**
 
+# 🧑‍💻 Equipe <a id="equipe"></a>
+| Nome                              | Papel         | GitHub                                  | LinkedIn                                               |
+| --------------------------------- | ------------- | --------------------------------------- | ------------------------------------------------------ |
+| Mariozan Damasceno Lacerda Júnior | Desenvolvedor | [GitHub](https://github.com/MariozanJr) | [LinkedIn](https://www.linkedin.com/in/mariozanjunior) |
+
 ## 🎯 (DoR / DoD) <a id="dordod"></a>
 **[Acessar Definição de Pronto (DoR / DoD)](./DoR_DoD.md)**
 
 
  
 
-# 🧑‍💻 Equipe <a id="equipe"></a>
-| Nome                              | Papel         | GitHub                                  | LinkedIn                                               |
-| --------------------------------- | ------------- | --------------------------------------- | ------------------------------------------------------ |
-| Mariozan Damasceno Lacerda Júnior | Desenvolvedor | [GitHub](https://github.com/MariozanJr) | [LinkedIn](https://www.linkedin.com/in/mariozanjunior) |
+
 
