@@ -50,5 +50,3 @@ Como usar
 - Na Retrospectiva: agregar ações para a próxima sprint.
 
 ---
-
-Arquivos sugeridos a criar (opcional): sprint4.md, sprint5.md, sprint6.md, sprint7.md, sprint8.md
