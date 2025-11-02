@@ -1,54 +1,79 @@
-# 🖥️ UpDesk-API-Mariozan
 <p align="center">
   | <a href="#sobre-o-projeto">Sobre o Projeto</a> |
   <a href="#backlog-do-produto">Backlog do Produto</a> |
-  <a href="#dordod">(DoR / DoD)</a> |
+  <a href="#cronograma-de-desenvolvimento">Cronograma de desenvolvimento |
   <a href="#cronograma-de-evolucao">Cronograma de Evolução</a> |
+  <a href="#sprints">Sprints</a> |
   <a href="#tecnologias-utilizadas">Tecnologias</a> |
   <a href="#estrutura-de-pastas">Estrutura de Pastas</a> |  
   <br>  | <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
-  <a href="#equipe">Equipe</a> |
+  <a href="#documentacao">Documentação</a> |  
+  <a href="#equipe">Equipe</a> | <a href="#diagramas">Diagramas</a>
 </p>
 
+---
 
-# 📖 Sobre o Projeto <a id="sobre-o-projeto"></a>
-Projeto UpDesk – versão individual aplicada no PIM/API  
-Disciplina: Projeto de Sistemas Orientado a Objetos  
-<br>
-O UpDesk é um projeto acadêmico focado no desenvolvimento de um sistema de abertura de chamados com suporte de inteligência artificial.
-O sistema oferece:  
-✔ Interface web responsiva  
-✔ Gerenciamento de chamados  
-✔ Chat com IA para triagem  
-✔ Direcionamento automatizado de solicitações   
+# 🤖 UpDesk-Mariozan
+## 📜 Sobre o Projeto <a id="sobre-o-projeto"></a>
+O **UpDesk** tem como objetivo resolver uma dor comum de empresas e setores de TI: a dificuldade na triagem, priorização e acompanhamento de chamados de suporte.
+Muitas vezes, usuários enfrentam demora no atendimento devido à falta de organização, categorização incorreta ou sobrecarga de analistas.
+O UpDesk propõe uma solução inovadora com inteligência artificial integrada, permitindo a sugestão automática de soluções, categorização de chamados e direcionamento para o nível adequado de atendimento.
 
-## 📋 Backlog do Produto
- [Acessar o backlog do produto](./BACKLOG.md) <a id="backlog-do-produto"></a>
+---
 
+## BACKLOG DE PRODUTO <a id="backlog-do-produto"></a>
+- [Backlog do UpDesk](./BACKLOG.md)
 
-## 📅 Cronograma de Evolução <a id="cronograma-de-evolucao"></a>
-**[Acessar Cronograma de Evolução](./cronograma.md)**
+---
 
+## CRONOGRAMA DE EVOLUÇÃO <a id="cronograma-de-evolucao"></a>
+- [Cronograma de evolução UpDesk](./cronograma.md)
 
-## 🚀 Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a> 
-**[Acessar as tecnologias utilizadas](./tecnologias.md)**
+---
 
-# 🗂 Estrutura de Pastas <a id="estrutura-de-pastas"></a>
-**[Acessar a Estrutura de Pastas](./pastas.md)**
+## 📊 Tabela de Sprints <a id="sprints"></a>
+- [Tabela de sprint descritiva](./sprintBacklog.md)
 
-# 🧑‍💻 Como Rodar o Projeto <a id="como-rodar-o-projeto"></a>
-**[Acessar como rodar o projeto](./rodarprojeto.md)**
+---
 
-# 🧑‍💻 Equipe <a id="equipe"></a>
-| Nome                              | Papel         | GitHub                                  | LinkedIn                                               |
-| --------------------------------- | ------------- | --------------------------------------- | ------------------------------------------------------ |
-| Mariozan Damasceno Lacerda Júnior | Desenvolvedor | [GitHub](https://github.com/MariozanJr) | [LinkedIn](https://www.linkedin.com/in/mariozanjunior) |
+## Tecnologias Utilizadas <a id="tecnologias-utlizadas"></a>
+- [Tecnologias Utilizadas](./tecnologias.md)
 
-## 🎯 (DoR / DoD) <a id="dordod"></a>
-**[Acessar Definição de Pronto (DoR / DoD)](./DoR_DoD.md)**
+---
 
+## 📂 Estrutura do Projeto <a id="estrutura-de-pastas"></a>   
+- [Estrutura das pastas](./pastas.md)
 
- 
+---
 
+## ▶️ Como Executar, Usar e Testar o Projeto <a id="como-rodar-o-projeto"></a>
+- [Como executar o projeto](./rodarprojeto.md)
 
+---
 
+## Pasta de documentação
+- [Pasta da documentação](./Documentacao)
+
+---
+
+## ✅ DoR (Definition of Ready)
+- [DoR (Definition of Ready) / DoD](./DoR_DoD.md)
+
+---
+
+## 📘 Manual do Usuário
+- [Manual de Usuário](./Manual_de_usuario.md)
+
+---
+
+## 📂 Diagramas
+- [Diagramas](./diagrams)
+
+---
+
+# 👨🏾‍💻 Equipe 
+| Nome                              | Papel                  | GitHub                                  | LinkedIn                                               |
+| --------------------------------- | ---------------------- | --------------------------------------- | ------------------------------------------------------ |
+| Mariozan Damasceno Lacerda Júnior | Desenvolvedor Back-end | [GitHub](https://github.com/MariozanJr) | [LinkedIn](https://www.linkedin.com/in/mariozanjunior) |
+
+---
