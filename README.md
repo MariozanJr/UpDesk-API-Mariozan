@@ -1,14 +1,16 @@
 <p align="center">
   | <a href="#sobre-o-projeto">Sobre o Projeto</a> |
   <a href="#backlog-do-produto">Backlog do Produto</a> |
-  <a href="#cronograma-de-desenvolvimento">Cronograma de desenvolvimento |
   <a href="#cronograma-de-evolucao">Cronograma de Evolução</a> |
-  <a href="#sprints">Sprints</a> |
-  <a href="#tecnologias-utilizadas">Tecnologias</a> |
-  <a href="#estrutura-de-pastas">Estrutura de Pastas</a> |  
-  <br>  | <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
-  <a href="#documentacao">Documentação</a> |  
-  <a href="#equipe">Equipe</a> | <a href="#diagramas">Diagramas</a>
+  <a href="#tabela-de-sprints">Tabela de Sprints</a> |
+  <a href="#tecnologias">Tecnologias</a> |
+  <a href="#estrutura-do-projeto">Estrutura do Projeto</a> |
+  <br> | <a href="#como-executar-usar-e-testar-o-projeto">Como Executar o Projeto</a> |
+  <a href="#pasta-de-documentacao">Pasta de documentação</a> |
+  <a href="#dor-e-dod">DoR  e DoD </a> |
+  <a href="#manual-do-usuario">Manual do Usuário</a> |
+  <a href="https://github.com/MariozanJr/UpDesk-API-Mariozan/tree/main/Diagramas" target="_blank">Diagramas</a> |
+  <a href="#equipe">Equipe</a>
 </p>
 
 ---
