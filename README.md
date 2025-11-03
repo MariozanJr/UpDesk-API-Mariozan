@@ -56,8 +56,8 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ---
 
-## ✅ DoR (Definition of Ready)
-- [DoR (Definition of Ready) / DoD](./DoR_DoD.md)
+## ✅ DoR (Definition of Ready) e ✅ DoD (Definition of Done)
+- veja [DoR/DoD](./DoR_DoD.md)
 
 ---
 
